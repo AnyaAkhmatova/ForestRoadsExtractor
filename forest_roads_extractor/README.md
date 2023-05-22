@@ -1,6 +1,6 @@
 В папке forest_roads_extractor находится код класса ForestRoadsExtractor.
 
-В ноутбуке https://github.com/AnyaAkhmatova/ForestRoadsExtractor/blob/main/forest_roads_extractor/forest_roads_extractor_example.ipynb содержится пример того, как можно пользоваться классом.
+В [ноутбуке](https://github.com/AnyaAkhmatova/ForestRoadsExtractor/blob/main/forest_roads_extractor/forest_roads_extractor_example.ipynb) содержится пример того, как можно пользоваться классом.
 
 Изображения report_image.jpg, report_image1.jpg и report_image2.jpg можно использовать для тестирования класса. Координаты углов для этих изображений: 
 - для report_image.jpg - ((53.24962646775486, -117.000305),
